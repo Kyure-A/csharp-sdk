@@ -1,0 +1,24 @@
+{
+  "name": "com.modelcontextprotocol.csharp-sdk",
+  "version": "0.1.0-preview.9",
+  "displayName": "Model Context Protocol C# SDK",
+  "description": ".NET SDK for the Model Context Protocol (MCP), compatible with Unity 2022 (C# 9.0).",
+  "unity": "2022.3",
+  "author": {
+    "name": "ModelContextProtocolOfficial",
+    "url": "https://github.com/modelcontextprotocol/csharp-sdk"
+  },
+  "license": "MIT",
+  "keywords": [
+    "modelcontextprotocol",
+    "mcp",
+    "ai",
+    "llm",
+    "sdk",
+    "unity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modelcontextprotocol/csharp-sdk.git"
+  }
+}
